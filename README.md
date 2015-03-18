@@ -4,7 +4,9 @@ launch cmd.
 
 set path to php.
 
-write command php <path to commit-count-test.php> -u <username> -p<password> <url-to-repository> <contributor-name> 
+write command 
+
+php <path to commit-count-test.php> -u <username> -p<password> <url-to-repository> <contributor-name> 
 
 php>php commit-count-test.php -u afshans -p afshan123 https://github.com/afshans/test afshans
 
