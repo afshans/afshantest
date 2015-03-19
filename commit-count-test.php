@@ -2,7 +2,7 @@
 
 /**
  * TODO :-
- * Impelement business logic for getBitBucketCommitCount function
+ * Impelement business logic for CommitCount function
  */
 
 /**
